@@ -55,8 +55,8 @@ export default StyleSheet.create({
         borderWidth: 2,  
         padding: 4, 
     },
-    view3_font: {
-        fontSize: 17,          
+    view3_texto_principal: {
+        fontSize: 20,          
     },
     view3_image: {
         flex: 1,
@@ -69,7 +69,106 @@ export default StyleSheet.create({
         flex: 7,
         backgroundColor: '#FFDEAD',
         borderBottomWidth: 7,
+        flexDirection: 'row', 
     },
+    view4_1: {
+        flex: 1,
+        backgroundColor: '#FFDEAD',
+        borderRightWidth: 3,
+
+    },
+    view4_1_1: {
+        flex: 1,
+        backgroundColor: '#FFDEAD',
+        alignItems: 'center', 
+    },
+    view4_1_1_text: {
+        fontSize: 20,  
+    },
+    view4_1_2: {
+        flex: 8,
+        backgroundColor: '#FFDEAD',
+    },
+    view_Titulo01: {
+        flex: 1,
+        backgroundColor: '#FFDEAD',
+        backgroundColor: 'red',
+        flexDirection: 'row',
+    },
+    view_Titulo01A: {
+        flex: 1,
+        backgroundColor: '#FFDEAD',
+    },
+    view_Titulo01A_image: {
+        flex: 1,
+        width: undefined,
+        height: undefined,       
+    },
+    view_Titulo01B: {
+        flex: 1,
+        backgroundColor: '#FFDEAD',
+    },
+    view_Titulo01C: {
+        flex: 1,
+        backgroundColor: '#FFDEAD',
+    },
+
+
+    view4_2: {
+        flex: 1,
+        backgroundColor: '#FFDEAD',
+    },
+    view4_2_1: {
+        flex: 1,
+        backgroundColor: '#FFDEAD',
+        alignItems: 'center', 
+    },
+    view4_2_1_text: {
+        fontSize: 20,  
+    },
+
+    view4_2_2: {
+        flex: 8,
+        backgroundColor: '#FFDEAD',
+    },
+    view_Titulo02: {
+        flex: 1,
+        backgroundColor: '#FFDEAD',
+    },
+    view_Titulo02A: {
+        flex: 1,
+        backgroundColor: '#FFDEAD',
+        backgroundColor: 'black',
+        flexDirection: 'row',
+    },
+    view_Titulo02B: {
+        flex: 1,
+        backgroundColor: '#FFDEAD',
+    },
+    view_Titulo02C: {
+        flex: 1,
+        backgroundColor: '#FFDEAD',
+    },
+    view_Titulo02C_image: {
+        flex: 1,
+        width: undefined,
+        height: undefined,       
+    },
+
+    texto2: {
+        fontSize: 12,          
+    },
+    texto3: {
+        fontSize: 12,          
+    },
+    texto4: {
+        fontSize: 12,          
+    },
+
+    
+
+
+
 
     view5: {
         flex: 1,
