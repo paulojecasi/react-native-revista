@@ -7,6 +7,9 @@ export default StyleSheet.create({
         padding:8,
     },
     
+    view_header: {
+        flex: 2,
+    },
     view1: {
         flex: 1,
         flexDirection: 'row', 
